@@ -37,23 +37,25 @@ body {
 .carousel-item-img1{
   background-image: url('../img/cats_01_medium.jpg');
   background-repeat: no-repeat;
-  background-position: center;
+  background-size: cover;
+  
 }
 .carousel-item-img2{
   background-image: url('../img/Dogs_01_medium.jpg');
   background-repeat: no-repeat;
-  background-position: center;
+  background-size: cover;
+  
   
 }
 .carousel-item-img3{
   background-image: url('../img/cats_02_medium.jpg');
   background-repeat: no-repeat;
-  background-position: center;
+  background-size: cover;
 }
 .carousel-item-img4{
   background-image: url('../img/dogs_02_medium.jpg');
   background-repeat: no-repeat;
-  background-position: center;
+  background-size: cover;
 }
 
 
