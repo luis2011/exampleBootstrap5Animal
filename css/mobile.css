@@ -25,6 +25,13 @@
         background-position: center;
         background-size: cover;
       }
+      footer{
+        flex-direction: column;
+        justify-content: center;
+      }
+      footer p{
+        text-align: center
+      }
 
     
 }
